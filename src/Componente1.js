@@ -7,6 +7,7 @@ const Componente1 = () => {
         <section>
             <Saluto/>
         </section>
+        
 
     );
 };
